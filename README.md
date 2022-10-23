@@ -1,4 +1,4 @@
-# FinApi - Financeia
+# FinApi - Financeira
 ## Requisitos
 - [x] Deve ser possível criar umma conta
 - [x] Deve ser possível buscar o extrato bancário do cliente
