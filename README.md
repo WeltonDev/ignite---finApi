@@ -1,4 +1,27 @@
-# FinApi - Financeira
+# FinApi - Financeira 💰
+
+### API Financeira que simula transações de contas bancárias. Este é o primeiro projeto realizado na trilha de NodeJs do Curso Ignite da Rocketseat.
+
+## Tecnologias
+- Nodejs
+- Express
+- UUID
+
+## Como rodar o projeto 🚀
+
+    # Clonar o repositório
+    $ git clone https://github.com/WeltonDev/ignite---finApi
+
+    # Entrar no diretório
+    $ cd ignite---finApi
+
+    # Instalar as dependências
+    $ npm install
+
+    # Iniciar o projeto
+    $ npm run dev
+
+
 ## Requisitos
 - [x] Deve ser possível criar umma conta
 - [x] Deve ser possível buscar o extrato bancário do cliente
